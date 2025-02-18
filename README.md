@@ -32,19 +32,13 @@ The **Faculty Management System** is designed to streamline departmental tasks, 
 - **Resource Availability:** Efficient resource sharing and accessibility.
 - **Improved Productivity:** Reduce administrative overhead and enhance resource allocation.
 
-## Live Demo
-Try it live on [csproconnect.me](https://csproconnect.me) using the default credentials:
-- **Username:** 1234
-- **Password:** root
-
-![image](https://github.com/user-attachments/assets/eba89cc8-c258-4b0f-ab05-abee331b50ed)
 
 
 ## Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Ketul-Prajapati/FMS-MERN.git
+    git clone https://github.com/jaivisal/FMS-MERN.git
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -92,22 +86,9 @@ Try it live on [csproconnect.me](https://csproconnect.me) using the default cred
 - **Login:** Students can log in to view and download timetables, marks, notices, and materials.
 - **Dashboard:** Access all academic information and resources in one place.
 
-## Contributing
-Contributions are welcome! Please fork this repository and create a pull request with your changes. Ensure your code follows best practices and is well-documented.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Conclusion
 The Faculty Management System significantly enhances the efficiency and effectiveness of managing educational institution tasks, fostering a better learning environment for students and a more streamlined administrative process for staff.
 
 ---
 
-**Developed by Team Titans**
-## Collaborators
-- [Ketul Prajapati - @ketul-prajapati](https://github.com/Ketul-Prajapati)
-- [Himilsinh Sindha - @himilsinh-sindha](https://github.com/himilsinh-sindha)
-- [Preet Mistry - @preet-mistry](https://github.com/Preet2003)
-- [Manav Parmar - @manav-parmar](https://github.com/Parmar-Manav)
-
-*Feel free to reach out for any questions or collaboration opportunities!*
