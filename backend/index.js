@@ -2,7 +2,9 @@ const connectToMongo = require("./Database/db");
 const express = require("express");
 const app = express();
 connectToMongo();
-const port = process.env.PORT || 5000;
+const port = process.env.PORTCannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at http://localhost:3001/static/js/bundle.js:9127:86 || 5000;
 var cors = require("cors");
 
 app.use(cors());
