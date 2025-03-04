@@ -1,7 +1,7 @@
-# Faculty Management System
+# TeachEase
 
 ## Overview
-The **Faculty Management System** is designed to streamline departmental tasks, enhance communication, and improve resource availability within educational institutions. This comprehensive solution integrates Admin, Faculty, and Student modules to centralize management, academic record-keeping, and resource sharing.
+The **TeachEase** is designed to streamline departmental tasks, enhance communication, and improve resource availability within educational institutions. This comprehensive solution integrates Admin, Faculty, and Student modules to centralize management, academic record-keeping, and resource sharing.
 
 ## Features
 ### Admin Module
@@ -88,7 +88,7 @@ The **Faculty Management System** is designed to streamline departmental tasks, 
 
 
 ## Conclusion
-The Faculty Management System significantly enhances the efficiency and effectiveness of managing educational institution tasks, fostering a better learning environment for students and a more streamlined administrative process for staff.
+The teachease significantly enhances the efficiency and effectiveness of managing educational institution tasks, fostering a better learning environment for students and a more streamlined administrative process for staff.
 
 ---
 
