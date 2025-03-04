@@ -33,6 +33,7 @@ const adminDetails = new mongoose.Schema({
     type: String,
     required: true,
   },
+  /* update*/
   timestamp: {
     type: Date,
     default: Date.now,
