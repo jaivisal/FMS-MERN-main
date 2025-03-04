@@ -9,6 +9,7 @@ The **TeachEase** is designed to streamline departmental tasks, enhance communic
 - Generate and remove notices and timetables.
 - Create and view semester-wise subjects.
 - Manage other admins.
+- Oversee faculty workload and performance analytics.
 
 ### Faculty Module
 - View student information.
@@ -16,23 +17,27 @@ The **TeachEase** is designed to streamline departmental tasks, enhance communic
 - Create and view notices.
 - Add subject-wise materials.
 - Take attendance.
+- Receive AI-driven insights for student performance trends.
 
 ### Student Module
 - View and download timetables, marks, notices, and materials.
+- Get personalized academic insights based on performance data.
+- Receive automated notifications for important academic updates.
 
 ## Tech Stack
-- **Frontend:** React.js,Redux Toolkit
-- **Backend:** Node.js,Express.js
+- **Frontend:** React.js, Redux Toolkit, Tailwind CSS
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Storage:** Firebase
+- **Authentication:** JWT (JSON Web Token)
+- **AI & Analytics:** Python (Pandas, Scikit-learn)
 
 ## Benefits
 - **Centralized Management:** Streamline academic and administrative tasks.
 - **Enhanced Communication:** Improve interaction between admins, faculty, and students.
 - **Resource Availability:** Efficient resource sharing and accessibility.
 - **Improved Productivity:** Reduce administrative overhead and enhance resource allocation.
-
-
+- **AI-Powered Insights:** Leverage data-driven recommendations for better academic performance.
 
 ## Installation
 
@@ -42,7 +47,7 @@ The **TeachEase** is designed to streamline departmental tasks, enhance communic
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd FMS-MERN
+    cd TeachEase
     ```
 3. **Frontend Setup:**
     - Navigate to the frontend directory:
@@ -77,18 +82,17 @@ The **TeachEase** is designed to streamline departmental tasks, enhance communic
 ### Admin
 - **Login:** Admins can log in to manage users, notices, timetables, and subjects.
 - **Dashboard:** View and manage all administrative tasks in one place.
+- **Analytics:** Access faculty workload and performance metrics.
 
 ### Faculty
 - **Login:** Faculty members can log in to access student info, upload marks and timetables, create notices, and manage class materials.
 - **Dashboard:** View and manage all teaching-related tasks and resources.
+- **AI Assistance:** Receive recommendations for student engagement and performance tracking.
 
 ### Student
 - **Login:** Students can log in to view and download timetables, marks, notices, and materials.
 - **Dashboard:** Access all academic information and resources in one place.
-
+- **Insights:** Get AI-generated insights and academic progress reports.
 
 ## Conclusion
-The teachease significantly enhances the efficiency and effectiveness of managing educational institution tasks, fostering a better learning environment for students and a more streamlined administrative process for staff.
-
----
-
+TeachEase significantly enhances the efficiency and effectiveness of managing educational institution tasks, fostering a better learning environment for students and a more streamlined administrative process for staff.
